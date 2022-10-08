@@ -90,7 +90,7 @@ const Header = () => {
                 <div className="flex justify-center text-sm pt-5 pb-5 font-light text-slate-400 underline">
                     <a href="https://www.tiktok.com/@electrobuysus?lang=en">TikTok</a>
                 </div>
-                <div className="flex justify-center text-sm pt-5 pb-5 font-light text-slate-400 underline">
+                <div className="flex justify-center text-sm pb-5 font-light text-slate-400 underline">
                     <a href="./contact">Contact Us</a>
                 </div>
                 <div>
