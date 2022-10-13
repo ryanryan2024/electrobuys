@@ -154,7 +154,7 @@ export default function Apple () {
                                                 <div className="pl-5 pt-8">
                                                     <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - Red</h1>
                                                     <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
-                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$329.99</h1>
                                                     <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
                                                 </div>
                                             </div>
@@ -169,7 +169,7 @@ export default function Apple () {
                                                 <div className="pl-5 pt-8">
                                                     <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - Black</h1>
                                                     <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
-                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$329.99</h1>
                                                     <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
                                                 </div>
                                             </div>
@@ -184,7 +184,7 @@ export default function Apple () {
                                                 <div className="pl-5 pt-8">
                                                     <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - White</h1>
                                                     <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
-                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$329.99</h1>
                                                     <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
                                                 </div>
                                             </div>
