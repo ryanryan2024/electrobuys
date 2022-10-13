@@ -45,7 +45,7 @@ export default function Apple () {
             <div className="px-7">
                 <Tab.Group>
                     <Tab.List className="flex justify-between px-5 bg-slate-200 text-black py-1 rounded-3xl text-lg">
-                        <Tab>📱 (32)</Tab>
+                        <Tab>📱 (35)</Tab>
                         <Tab>⌚️ (16)</Tab>
                         <Tab>🎧 (3)</Tab>
                         <Tab className="px-5">💻 (10)</Tab>
