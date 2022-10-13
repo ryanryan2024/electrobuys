@@ -10,6 +10,7 @@ import iPhone12listing from '../public/listingPhotos/iphone12.png'
 import iPhoneXlisting from '../public/listingPhotos/iphonex.png'
 import iPhoneXSlisting from '../public/listingPhotos/iphonexs.jpg'
 import iPhoneXRlisting from '../public/listingPhotos/iphonexr.jpg'
+import iPhoneSE from '../public/listingPhotos/iphonese.jpg'
 import AppleWatchSE from '../public/listingPhotos/applewatchse.jpg'
 import AppleWatch7 from '../public/listingPhotos/applewatch7.jpg'
 import iPhone13listing from '../public/listingPhotos/iphone13.jpg'
@@ -140,6 +141,51 @@ export default function Apple () {
                                                     <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
                                                     <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
                                                     <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 6 Days</h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div className="py-5">
+                                    <a href="https://buy.stripe.com/9AQ1465Pc1TBec05lm">
+                                        <div className="pb-5">
+                                            <div className="flex h-50 l-50 bg-white shadow-xl rounded-3xl p-5">
+                                                <Image src={iPhoneSE} width="200" height="300" />
+                                                <div className="pl-5 pt-8">
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - Red</h1>
+                                                    <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div className="py-5">
+                                    <a href="https://buy.stripe.com/9AQ3ce7Xk0Pxc3S6pr">
+                                        <div className="pb-5">
+                                            <div className="flex h-50 l-50 bg-white shadow-xl rounded-3xl p-5">
+                                                <Image src={iPhoneSE} width="200" height="300" />
+                                                <div className="pl-5 pt-8">
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - Black</h1>
+                                                    <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div className="py-5">
+                                    <a href="https://buy.stripe.com/8wM8wydhEbub6Jy9BE">
+                                        <div className="pb-5">
+                                            <div className="flex h-50 l-50 bg-white shadow-xl rounded-3xl p-5">
+                                                <Image src={iPhoneSE} width="200" height="300" />
+                                                <div className="pl-5 pt-8">
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">iPhone SE 5G 64GB (Unlocked) - White</h1>
+                                                    <h1 className="font-extralight pb-5 text-sm">Condition: New</h1>
+                                                    <h1 className="font-seriff font-light pb-5 text-sm">$559.99</h1>
+                                                    <h1 className="font-seriff font-bold pb-5 text-sm">Estimated Delivery Time: 3 Days</h1>
                                                 </div>
                                             </div>
                                         </div>
